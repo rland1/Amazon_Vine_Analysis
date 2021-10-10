@@ -5,9 +5,9 @@ The purpose of this project is to analyze Amazon reviews that are written by mem
 
 ## Results
 
-- Total of 107 vine reviews, and 39,869 non vine reviews 
-- There were 56 five star vine reviews, and 21,005 five star non vine reviews
-- 52.33% of vine reviews were five stars, and 52.69% of non vine reviews were five stars
+- Total of 107 vine reviews, and 39,869 non vine reviews. 
+- There were 56 five star vine reviews, and 21,005 five star non vine reviews.
+- 52.33% of vine reviews were five stars, and 52.69% of non vine reviews were five stars.
 
 ## Summary
 
